@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvgeniyR1987
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on any interesting startup
 - 📫 My email: evgeniyrodine@gmail.com
 
